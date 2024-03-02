@@ -1,0 +1,9 @@
+Đỉnh     |  TTK            |  Danh sách L1   |  Danh sách L
+_____________________________________________________________
+A20      |   C15 D6 E7     |   D6 E7 C15     |   D, E, C
+D6       |   I8 F10        |   I8 F10        |   I, F, E, C
+I8       |   B0            |   B0            |   B, F, E, C
+B0       | Trạng thái kết thúc
+
+Đường đi từ A đến B
+ là: A->D->I->B

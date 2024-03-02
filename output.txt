@@ -1,0 +1,14 @@
+Đỉnh  |  TTK       |  Danh sách L
+_____________________________________
+A    | B C D         |   D, C, B
+D    | C F           |   F, C, C, B
+F    | K             |   K, C, C, B
+K    |               |   C, C, B
+C    | E F           |   F, E, C, B
+F    | K             |   K, E, C, B
+K    |               |   E, C, B
+E    | G K           |   K, G, C, B
+K    |               |   G, C, B
+G    | Trạng thái kết thúc
+
+Đường đi từ A đến G là: A->D->C->E->G
